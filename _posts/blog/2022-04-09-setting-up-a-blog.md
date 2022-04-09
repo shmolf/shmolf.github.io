@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Setting up this blog"
-category: blog
+categories: Blog
 ---
 
 # Considerations

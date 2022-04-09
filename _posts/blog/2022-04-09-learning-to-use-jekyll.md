@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Learning to use Jekyll"
-category: blog
+categories: Blog
 ---
 
 # Publishing a blog post
