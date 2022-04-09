@@ -35,7 +35,8 @@ These notes are for me, but I thought `nicholas-browning-notes.blog` is a little
 
 I hope these notes will benefit other developers beyond myself. So I settled on `dev-notes.blog`.
 
-I registered the URL through [Google Domains](https://domains.google.com).
+I registered the URL through <a href="https://domains.google.com" target="_blank">Google Domains</a>.
+(Google makes it tough to de-Google one's self)
 
 ### Blog Content Management
 I opted for Github Pages, since I'm already familiar with Github, and the feature seems to support my expectations.
