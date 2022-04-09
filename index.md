@@ -5,3 +5,14 @@
     </li>
   {% endfor %}
 </ul>
+<aside>
+    <ul>
+    {% for category in site.categories %}
+        <li>
+            <a href="{{ categories.url }}" id="#{{ category | slugize }}">
+                {{ categories.title }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+</aside>
