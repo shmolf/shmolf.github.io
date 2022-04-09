@@ -9,8 +9,8 @@
     <ul>
     {% for category in site.categories %}
         <li>
-            <a href="{{ categories.url }}" id="#{{ category | slugize }}">
-                {{ categories.title }}
+            <a href="{{ category.url }}" id="#{{ category | first | slugize }}">
+                {{ category | first }}
             </a>
         </li>
     {% endfor %}
