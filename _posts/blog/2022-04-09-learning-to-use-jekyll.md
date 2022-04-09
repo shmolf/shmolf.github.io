@@ -6,7 +6,7 @@ title:  "Learning to use Jekyll"
 # Publishing a blog post
 Turns out, creating a new markdown file is not enough.
 
-Publishing my [first post]({% post_url 2021-01-01-how-to-make-pizza %}) yielded a bare minimum html document,
+Publishing my [first post]({% post_url 2022-04-09-setting-up-a-blog %}) yielded a bare minimum html document,
 with none of the thematic styling portrayed on the blog's landing site.
 
 ![screenshot of basic html rendering of blog post](/assets/images/screenshots/vanilla-html-blog-post.jpg)
