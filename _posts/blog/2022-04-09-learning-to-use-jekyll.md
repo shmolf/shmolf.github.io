@@ -6,18 +6,10 @@ title:  "Learning to use Jekyll"
 # Publishing a blog post
 Turns out, creating a new markdown file is not enough.
 
-Publishing my first post yielded a bare minimum html document, with none of the thematic styling
-portrayed on the blog's landing site.
-
-![screenshot of basic html rendering of blog post](assets/images/screenshots/vanilla-html-blog-post.jpg)
+Publishing my [first post]({% post_url 2021-01-01-how-to-make-pizza %}) yielded a bare minimum html document,
+with none of the thematic styling portrayed on the blog's landing site.
 
 ![screenshot of basic html rendering of blog post](/assets/images/screenshots/vanilla-html-blog-post.jpg)
-
-_Originally tried to reference:_
-```markdown
-![screenshot of basic html rendering of blog post](/assets/images/screenshots/vanilla-html-blog-post.jpg)
-```
-
 
 ## How to resolve
 Doing a quick search online yielded [this post](https://github.community/t/page-not-showing-the-theme/10340/3)
