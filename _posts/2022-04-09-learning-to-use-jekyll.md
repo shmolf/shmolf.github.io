@@ -9,7 +9,13 @@ Turns out, creating a new markdown file is not enough.
 Publishing my first post yielded a bare minimum html document, with none of the thematic styling
 portrayed on the blog's landing site.
 
+![screenshot of basic html rendering of blog post](_assets/images/screenshots/vanilla-html-blog-post.jpg)
+
+_Originally tried to reference:_
+```markdown
 ![screenshot of basic html rendering of blog post](/_assets/images/screenshots/vanilla-html-blog-post.jpg)
+```
+
 
 ## How to resolve
 Doing a quick search online yielded [this post](https://github.community/t/page-not-showing-the-theme/10340/3)
